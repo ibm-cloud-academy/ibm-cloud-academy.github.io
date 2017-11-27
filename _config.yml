@@ -1,0 +1,19 @@
+# Setup
+title:        IBM Cloud Garage Academy
+tagline:      Expert–led training services from the IBM Cloud Garage
+baseurl:      ""
+paginate:     1
+exclude:      [Gemfile, Gemfile.lock, README.md]
+
+# About/contact
+author:
+  name:       Cloud Learning & Skills Development
+  email:      warrenf@ca.ibm.com
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jemoji
+
+#Others
+markdown: kramdown
