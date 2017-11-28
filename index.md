@@ -2,14 +2,50 @@
 layout: default
 ---
 # Resources and help
-* [Topic 1](#topic-1)
-* [Topic 2](#topic-2)
+* [IBM Cloud](#ibm-cloud)
+* [IBM Cloud Garage](#ibm-cloud-garage)
+* [Developer Support](#developer-support)
+* [Social Media](#social-media)
+* [Slack](#slack)
 
-## Topic 1
-Add your links here.
+## IBM Cloud
+* [IBM Cloud homepage](https://www.ibm.com/cloud/)
+* [IBM Cloud console](https://console.bluemix.net/)
+* [IBM Cloud documentation](https://console.bluemix.net/docs/)
+* [IBM Cloud what's new](https://www.ibm.com/cloud-computing/learn-more/new/)
+* [IBM Cloud blog](https://www.ibm.com/blogs/bluemix/)
 
-## Topic 2
-Add your links here.  
+## IBM Cloud Garage
+* [IBM Cloud Garage homepage](https://www.ibm.com/cloud-computing/bluemix/garage/)
+* [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/category/practices)
+* [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
+
+## Developer Support
+* [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
+* [Cloud Learning Journeys](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=journey_category&tag=o-itns-01-02)
+* [DeveloperWorks Answers](https://developer.ibm.com/answers/smartspace/bluemix/index.html)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-bluemix)
+
+## Social Media
+* IBM Cloud Twitter ![twitter](/graphics/twitter.png)
+  * @IBMCloud
+  * <https://twitter.com/IBMcloud>
+* IBM Cloud YouTube Channel ![youtube](/graphics/youtube.png)
+  * <https://www.youtube.com/user/IBMCloud>
+
+## Slack
+  * IBM Cloud Technology ![slack invite](/graphics/slack.png)
+    * <https://ibm-cloud-tech.slack.com/>
+    * To join
+      1. Navigate to: <https://slack-invite-ibm-cloud-tech.mybluemix.net/>
+      2. Submit your email address
+      3. Click the like you receive in email to join
+      ![slack invite](/graphics/slack-invite.png)
+  * Key channels
+      * \#announcements – To receive announcements
+      * \#beginnersbluemix – For noobs questions
+      * \#ibm-cloud-private – Cloud Private Community Edition questions.
+      * \#developer-tools – Discuss IBM Cloud Developer Tools CLIs
 
 [&#x21ea; return to top](#page-head)
 
@@ -27,5 +63,3 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 *Note:* To enable Adobe Flash support for the speed test, [follow these instructions](https://help.skytap.com/Speedtest.html#no-flash).
 
 [&#x21ea; return to top](#page-head)
-
-
