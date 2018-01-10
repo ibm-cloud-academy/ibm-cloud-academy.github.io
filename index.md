@@ -22,6 +22,7 @@ layout: default
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
+* [IBM contributes new tools & code to speed up innovation for developers](https://developer.ibm.com/dwblog/2017/speed-innovation-for-developers/)
 * [Cloud Learning Journeys](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=journey_category&tag=o-itns-01-02)
 * [DeveloperWorks Answers](https://developer.ibm.com/answers/smartspace/bluemix/index.html)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-bluemix)
