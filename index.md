@@ -68,9 +68,8 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 ## Pre-requisite learning
 Certain instructor-led courses have self-study components that you complete before you attend the class.  Review the list of pre-requisite learning requirements below.
 
-* [IBM Cloud Garage Application Architect Bootcamp](#architect-bootcamp-prereqs)
+* [IBM Cloud Garage Application Architect Bootcamp](#ibm-cloud-garage-application-architect-bootcamp)
 
-<a name="architect-bootcamp-prereqs"></a>
 ### IBM Cloud Garage Application Architect Bootcamp
 Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning:
 
