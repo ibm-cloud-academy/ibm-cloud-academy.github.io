@@ -64,3 +64,21 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 *Note:* To enable Adobe Flash support for the speed test, [follow these instructions](https://help.skytap.com/Speedtest.html#no-flash).
 
 [&#x21ea; return to top](#page-head)
+
+## Pre-requisite learning
+Certain instructor-led courses have self-study components that you complete before you attend the class.  Review the list of pre-requisite learning requirements below.
+
+* [IBM Cloud Garage Application Architect Bootcamp](#architect-bootcamp-prereqs)
+
+<a name="architect-bootcamp-prereqs"></a>
+### IBM Cloud Garage Application Architect Bootcamp
+Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning:
+
+1. Complete the tutorial "[Scenario: End-to-end development](https://console.bluemix.net/docs/cfapps/ee.html#ee)" on the IBM Cloud Docs site.
+2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
+3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
+4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" from the Docker Tutorial site. 
+
+At the end of the Bootcamp, you complete a quiz to earn the [IBM Cloud Garage Architect Bootcamp](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-garage-architect-bootcamp) badge.  You will be quizzed on topics from the pre-requisite learning.
+
+[&#x21ea; return to top](#page-head)
