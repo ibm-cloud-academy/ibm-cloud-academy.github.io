@@ -49,6 +49,9 @@ layout: default
       * \#ibm-cloud-private – Cloud Private Community Edition questions.
       * \#developer-tools – Discuss IBM Cloud Developer Tools CLIs
 
+## Customers
+* [American Airlines](https://www.ibm.com/case-studies/american-airlines?social_post=1432548634) ([YouTube](https://www.youtube.com/watch?v=t1PgNr8VMLc))
+
 [&#x21ea; return to top](#page-head)
 
 ------
