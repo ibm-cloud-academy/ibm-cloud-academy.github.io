@@ -19,6 +19,7 @@ layout: default
 * [IBM Cloud Garage homepage](https://www.ibm.com/cloud-computing/bluemix/garage/)
 * [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/category/practices)
 * [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
+* [IBM Cloud Adoption Playbook](https://www.amazon.com/dp/1119491819/) ([Amazon](https://www.amazon.com/dp/1119491819/)) ![playbook](/graphics/1119491819.jpg)
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
@@ -76,7 +77,7 @@ Before you attend the Application Architect Bootcamp, complete the following sel
 1. Complete the tutorial "[Scenario: End-to-end development](https://console.bluemix.net/docs/cfapps/ee.html#ee)" on the IBM Cloud Docs site.
 2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
 3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
-4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" from the Docker Tutorial site. 
+4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" from the Docker Tutorial site.
 
 At the end of the Bootcamp, you complete a quiz to earn the [IBM Cloud Garage Architect Bootcamp](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-garage-architect-bootcamp) badge.  You will be quizzed on topics from the pre-requisite learning.
 
