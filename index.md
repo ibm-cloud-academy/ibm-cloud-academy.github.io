@@ -19,7 +19,7 @@ layout: default
 * [IBM Cloud Garage homepage](https://www.ibm.com/cloud-computing/bluemix/garage/)
 * [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/category/practices)
 * [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
-* [IBM Cloud Adoption Playbook](https://www.amazon.com/dp/1119491819/) ([Amazon](https://www.amazon.com/dp/1119491819/)) ![playbook](/graphics/1119491819.jpg)
+* [IBM Cloud Adoption Playbook](https://www.amazon.com/dp/1119491819/) ![playbook](/graphics/1119491819.jpg)
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
