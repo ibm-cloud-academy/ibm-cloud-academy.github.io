@@ -49,8 +49,17 @@ layout: default
       * \#ibm-cloud-private – Cloud Private Community Edition questions.
       * \#developer-tools – Discuss IBM Cloud Developer Tools CLIs
 
-## Customers
+## IBM Cloud Garage Customers
 * [American Airlines](https://www.ibm.com/case-studies/american-airlines?social_post=1432548634) ([YouTube](https://www.youtube.com/watch?v=t1PgNr8VMLc))
+  * IBM also proposed to accelerate the transformation of American’s application development, organization and skills, based on its **IBM Cloud Garage Method**. As IBM and American jointly developed the new cloud-native apps in **Cloud Foundry on IBM Public Cloud Platform as a Service**, the old components would be retired.
+* [FreshTurf](https://www.ibm.com/case-studies/r899557w02093i94)
+  * FreshTurf teamed with **IBM Bluemix Garage** developers and designers to build a blockchain distributed ledger solution on an **IBM Bluemix** cloud platform.
+* [Advansolar](https://www.ibm.com/case-studies/advansolar)
+  * Advansolar joined forces with the **IBM® Cloud Garage** consultancy to create an innovative electric bicycle rental solution, leveraging a range of **IBM Watson Data Platform** to accelerate development.
+* [P.L.M. Industries](https://www.ibm.com/case-studies/i995451j47948o62)
+  * Working with an **IBM Cloud Garage** team, P.L.M. Industries created a first-of-its-kind logistics platform designed to drive down cargo loss and theft.
+* [1-800-Flowers](https://www.zdnet.com/article/how-1-800-flowers-fixed-your-mothers-day-delivery-with-ibms-help/)
+  * The 42-year-old business is modernizing its customer service with the help of the **IBM Cloud Garage**.
 
 [&#x21ea; return to top](#page-head)
 
