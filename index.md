@@ -22,11 +22,11 @@ layout: default
 * [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
 
 ## Field Guides
-* [IBM Cloud Adoption Playbook](https://www.ibm.com/cloud/garage/services/the-cloud-adoption-playbook/)  [![ ](/graphics/CloudAdoption-small.jpg)](https://www.amazon.com/dp/1119491819/)
-* [IBM Cloud Garage Method Field Guide](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)  [![ ](/graphics/GarageFieldGuide-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
-* [IBM Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)  [![ ](/graphics/AppModernization-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
-* [IBM Data and Analytics Strategy Field Guide](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)  [![ ](/graphics/DataAnalytics-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
-* [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)  [![ ](/graphics/DesignThinking-small.jpg)](http://ibm.biz/fieldguide-public/)
+* [![ ](/graphics/CloudAdoption-small.jpg)](https://www.amazon.com/dp/1119491819/)[IBM Cloud Adoption Playbook](https://www.ibm.com/cloud/garage/services/the-cloud-adoption-playbook/)  
+* [![ ](/graphics/GarageFieldGuide-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/) [IBM Cloud Garage Method Field Guide](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)  
+* [![ ](/graphics/AppModernization-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/) [IBM Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)  
+* [![ ](/graphics/DataAnalytics-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/) [IBM Data and Analytics Strategy Field Guide](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)  
+* [![ ](/graphics/DesignThinking-small.jpg)](http://ibm.biz/fieldguide-public/) [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)  
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
