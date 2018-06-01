@@ -4,10 +4,10 @@ layout: default
 # Resources and help
 * [IBM Cloud](#ibm-cloud)
 * [IBM Cloud Garage](#ibm-cloud-garage)
+* [Field Guides](#field-guides)
 * [Developer Support](#developer-support)
 * [Social Media](#social-media)
 * [Slack](#slack)
-* [Field Guides](#field-guides)
 
 ## IBM Cloud
 * [IBM Cloud homepage](https://www.ibm.com/cloud/)
@@ -20,6 +20,13 @@ layout: default
 * [IBM Cloud Garage homepage](https://www.ibm.com/cloud/garage)
 * [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/category/practices)
 * [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
+
+## Field Guides
+* [IBM Cloud Adoption Playbook](https://www.ibm.com/cloud/garage/services/the-cloud-adoption-playbook/)  [![ ](/graphics/CloudAdoption-small.jpg)](https://www.amazon.com/dp/1119491819/)
+* [IBM Cloud Garage Method Field Guide](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)  [![ ](/graphics/GarageFieldGuide-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
+* [IBM Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)  [![ ](/graphics/AppModernization-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
+* [IBM Data and Analytics Strategy Field Guide](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)  [![ ](/graphics/DataAnalytics-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
+* [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)  [![ ](/graphics/DesignThinking-small.jpg)](http://ibm.biz/fieldguide-public/)
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
@@ -60,41 +67,6 @@ layout: default
   * Working with an **IBM Cloud Garage** team, P.L.M. Industries created a first-of-its-kind logistics platform designed to drive down cargo loss and theft.
 * [1-800-Flowers](https://www.zdnet.com/article/how-1-800-flowers-fixed-your-mothers-day-delivery-with-ibms-help/)
   * The 42-year-old business is modernizing its customer service with the help of the **IBM Cloud Garage**.
-
-## Field Guides
-![ ](/graphics/CloudAdoption-small.jpg) ![ ](/graphics/GarageFieldGuide-small.jpg) ![ ](/graphics/AppModernization-small.jpg) ![ ](/graphics/DataAnalytics-small.jpg) ![ ](/graphics/DesignThinking-small.jpg)
-* IBM Cloud Adoption Playbook
-   - [Paperback](https://www.amazon.com/dp/1119491819/)
-   - [Softcopy](https://www.ibm.com/cloud/garage/files/the-cloud-adoption-playbook_preview.pdf)
-* IBM Cloud Garage Method Field Guide
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/garage-method-field-guide.pdf)
-* IBM Application Modernization Field Guide
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/app-modernization-field-guide.pdf)
-* IBM Data and Analytics Strategy Field Guide
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/data-analytics-field-guide.pdf)
-* IBM Design Thinking Field Guide
-  - [Web site](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
-  - [Softcopy](http://ibm.biz/fieldguide-public)
-
-
-* IBM Cloud Adoption Playbook ![ ](/graphics/CloudAdoption-small.jpg)
-   - [Paperback](https://www.amazon.com/dp/1119491819/)
-   - [Softcopy](https://www.ibm.com/cloud/garage/files/the-cloud-adoption-playbook_preview.pdf)
-* IBM Cloud Garage Method Field Guide ![ ](/graphics/GarageFieldGuide-small.jpg)
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/garage-method-field-guide.pdf)
-* IBM Application Modernization Field Guide ![ ](/graphics/AppModernization-small.jpg)
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/app-modernization-field-guide.pdf)
-* IBM Data and Analytics Strategy Field Guide ![ ](/graphics/DataAnalytics-small.jpg)
-  - [Web site](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
-  - [Softcopy](https://www.ibm.com/cloud/garage/files/data-analytics-field-guide.pdf)
-* IBM Design Thinking Field Guide ![ ](/graphics/DesignThinking-small.jpg)
-  - [Web site](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
-  - [Softcopy](http://ibm.biz/fieldguide-public)
 
 [&#x21ea; return to top](#page-head)
 
