@@ -62,6 +62,24 @@ layout: default
   * The 42-year-old business is modernizing its customer service with the help of the **IBM Cloud Garage**.
 
 ## Field Guides
+![ ](/graphics/CloudAdoption-small.jpg) ![ ](/graphics/GarageFieldGuide-small.jpg) ![ ](/graphics/AppModernization-small.jpg) ![ ](/graphics/DataAnalytics-small.jpg) ![ ](/graphics/DesignThinking-small.jpg)
+* IBM Cloud Adoption Playbook
+   - [Paperback](https://www.amazon.com/dp/1119491819/)
+   - [Softcopy](https://www.ibm.com/cloud/garage/files/the-cloud-adoption-playbook_preview.pdf)
+* IBM Cloud Garage Method Field Guide
+  - [Web site](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
+  - [Softcopy](https://www.ibm.com/cloud/garage/files/garage-method-field-guide.pdf)
+* IBM Application Modernization Field Guide
+  - [Web site](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
+  - [Softcopy](https://www.ibm.com/cloud/garage/files/app-modernization-field-guide.pdf)
+* IBM Data and Analytics Strategy Field Guide
+  - [Web site](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
+  - [Softcopy](https://www.ibm.com/cloud/garage/files/data-analytics-field-guide.pdf)
+* IBM Design Thinking Field Guide
+  - [Web site](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
+  - [Softcopy](http://ibm.biz/fieldguide-public)
+
+
 * IBM Cloud Adoption Playbook ![ ](/graphics/CloudAdoption-small.jpg)
    - [Paperback](https://www.amazon.com/dp/1119491819/)
    - [Softcopy](https://www.ibm.com/cloud/garage/files/the-cloud-adoption-playbook_preview.pdf)
