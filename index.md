@@ -85,18 +85,25 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 
 [&#x21ea; return to top](#page-head)
 
+------
+
+# Local lab environment
+If you prefer you can prepare your local environment to run the labs with the following links:
+* [Preparation on Windows](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_windows.md)
+* [Preparation on MAC](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_mac.md)
+* [Preparation on Linux](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_linux.md)
+
+[&#x21ea; return to top](#page-head)
+
 ## Pre-requisite learning
 Certain instructor-led courses have self-study components that you complete before you attend the class.  Review the list of pre-requisite learning requirements below.
 
 * [IBM Cloud Garage Application Architect Bootcamp](#ibm-cloud-garage-application-architect-bootcamp)
 
 ### IBM Cloud Garage Application Architect Bootcamp
-Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning:
+Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning on the following link:
 
-1. Complete the tutorial "[Scenario: End-to-end development](https://console.bluemix.net/docs/cfapps/ee.html#ee)" on the IBM Cloud Docs site.
-2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
-3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
-4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" from the Docker Tutorial site.
+* [IBM Cloud Garage Application Architect Bootcamp pre-requisites](http://ibm.biz/ArchitectBootcampPreReqs)
 
 At the end of the Bootcamp, you complete a quiz to earn the [IBM Cloud Garage Architect Bootcamp](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-garage-architect-bootcamp) badge.  You will be quizzed on topics from the pre-requisite learning.
 
