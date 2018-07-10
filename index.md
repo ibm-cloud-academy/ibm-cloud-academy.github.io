@@ -22,11 +22,11 @@ layout: default
 * [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/category/architectures/)
 
 ## Field Guides
-* [![ ](/graphics/CloudAdoption-small.jpg)](https://www.amazon.com/dp/1119491819/)[IBM Cloud Adoption Playbook](https://www.ibm.com/cloud/garage/services/the-cloud-adoption-playbook/)  
-* [![ ](/graphics/GarageFieldGuide-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/) [IBM Cloud Garage Method Field Guide](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)  
-* [![ ](/graphics/AppModernization-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/) [IBM Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)  
-* [![ ](/graphics/DataAnalytics-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/) [IBM Data and Analytics Strategy Field Guide](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)  
-* [![ ](/graphics/DesignThinking-small.jpg)](http://ibm.biz/fieldguide-public/) [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)  
+* [![ ](/graphics/CloudAdoption-small.jpg)](https://www.amazon.com/dp/1119491819/)[IBM Cloud Adoption Playbook](https://www.ibm.com/cloud/garage/services/the-cloud-adoption-playbook/)
+* [![ ](/graphics/GarageFieldGuide-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/) [IBM Cloud Garage Method Field Guide](https://www.ibm.com/cloud/garage/content/culture/garage-method-field-guide/)
+* [![ ](/graphics/AppModernization-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/) [IBM Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/culture/app-modernization-field-guide/)
+* [![ ](/graphics/DataAnalytics-small.jpg)](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/) [IBM Data and Analytics Strategy Field Guide](https://www.ibm.com/cloud/garage/content/culture/data-analytics-field-guide/)
+* [![ ](/graphics/DesignThinking-small.jpg)](http://ibm.biz/fieldguide-public/) [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
 ## Developer Support
 * [DeveloperWorks](https://www.ibm.com/developerworks/learn/cloud/)
@@ -71,11 +71,16 @@ layout: default
 [&#x21ea; return to top](#page-head)
 
 ------
+# Lab environment
+To do the lab exercises you can either use a remote lab environment provided or prepare your local environment to run the labs. See the following for details:
+* [Remote lab environment](#remote-lab-environment)
+* [Local lab environment](#local-lab-environment)
 
-# Remote lab environment
+## Remote lab environment
+To use the remote lab environment you need to check the following:
 * [Network connectivity](#network-connectivity)
 
-## Network connectivity
+### Network connectivity
 The lab exercises for this course are hosted on the Skytap cloud virtualization environment. Test your connection to the server with the following links:
 
 1. Run the [connectivity test](https://cloud.skytap.com/connectivity) to confirm that your computer can connect to the IBM Lab environment.
@@ -83,19 +88,17 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 
 *Note:* To enable Adobe Flash support for the speed test, [follow these instructions](https://help.skytap.com/Speedtest.html#no-flash).
 
-[&#x21ea; return to top](#page-head)
-
-------
-
-# Local lab environment
-If you prefer you can prepare your local environment to run the labs with the following links:
+## Local lab environment
+To run the lab exercises on your local environment you need to prepare it by following the appropriate link:
 * [Preparation on Windows](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_windows.md)
 * [Preparation on MAC](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_mac.md)
 * [Preparation on Linux](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_linux.md)
 
 [&#x21ea; return to top](#page-head)
 
-## Pre-requisite learning
+------
+
+# Pre-requisite learning
 Certain instructor-led courses have self-study components that you complete before you attend the class.  Review the list of pre-requisite learning requirements below.
 
 * [IBM Cloud Garage Application Architect Bootcamp](#ibm-cloud-garage-application-architect-bootcamp)
