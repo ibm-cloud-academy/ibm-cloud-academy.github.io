@@ -104,9 +104,12 @@ Certain instructor-led courses have self-study components that you complete befo
 * [IBM Cloud Garage Application Architect Bootcamp](#ibm-cloud-garage-application-architect-bootcamp)
 
 ### IBM Cloud Garage Application Architect Bootcamp
-Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning on the following link:
+Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning:
 
-* [IBM Cloud Garage Application Architect Bootcamp pre-requisites](http://ibm.biz/ArchitectBootcampPreReqs)
+1. Complete the tutorial "[IBM Cloud Getting Started Tutorial](https://console.bluemix.net/docs/apps/index.html)" on the IBM Cloud Docs site.
+2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
+3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
+4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" on the Docker Tutorial site.
 
 At the end of the Bootcamp, you complete a quiz to earn the [IBM Cloud Garage Architect Bootcamp](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-garage-architect-bootcamp) badge.  You will be quizzed on topics from the pre-requisite learning.
 
