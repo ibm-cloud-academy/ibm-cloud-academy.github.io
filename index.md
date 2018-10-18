@@ -90,9 +90,9 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 
 ## Local lab environment
 To run the lab exercises on your local environment you need to prepare it by following the appropriate link:
-* [Preparation on Windows](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_windows.md)
-* [Preparation on MAC](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_mac.md)
-* [Preparation on Linux](https://github.com/ibm-cloud-academy/content/blob/master/setup/set_up_linux.md)
+* [Preparation on Windows](set_up_windows.md)
+* [Preparation on MAC](set_up_mac.md)
+* [Preparation on Linux](set_up_linux.md)
 
 [&#x21ea; return to top](#page-head)
 
