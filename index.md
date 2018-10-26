@@ -8,6 +8,9 @@ layout: default
 * [Developer Support](#developer-support)
 * [Social Media](#social-media)
 * [Slack](#slack)
+* [IBM Cloud Garage Customers](#ibm-cloud-garage-customers)
+* [Lab environment](#lab-environment)
+* [Pre-requisite learning](#pre-requisite-learning)
 
 ## IBM Cloud
 * [IBM Cloud homepage](https://www.ibm.com/cloud/)
@@ -106,7 +109,7 @@ Certain instructor-led courses have self-study components that you complete befo
 ### IBM Cloud Garage Application Architect Bootcamp
 Before you attend the Application Architect Bootcamp, complete the following self-paced digital learning:
 
-1. Complete the tutorial "[IBM Cloud Getting Started Tutorial](https://console.bluemix.net/docs/apps/index.html)" on the IBM Cloud Docs site.
+1. Complete one of these two tutorials: [Getting started tutorial (Node.js)](https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html) or [Getting started tutorial (Liberty for Java)](https://console.bluemix.net/docs/runtimes/liberty/getting-started.html) on the IBM Cloud Docs site.
 2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
 3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
 4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" on the Docker Tutorial site.
