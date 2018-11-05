@@ -112,7 +112,7 @@ Before you attend the Application Architect Bootcamp, complete the following sel
 1. Complete one of these two tutorials: [Getting started tutorial (Node.js)](https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html) or [Getting started tutorial (Liberty for Java)](https://console.bluemix.net/docs/runtimes/liberty/getting-started.html) on the IBM Cloud Docs site.
 2. Read the article "[9 rules for Cloud applications](https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)".
 3. Read the article "[Martin Fowler on Microservices](https://martinfowler.com/articles/microservices.html)".
-4. Complete the tutorial "[Developer - Beginning Linux Containers](https://training.docker.com/course/developer---beginner-linux-containers)" on the Docker Tutorial site.
+4. Complete parts 1-2 of the tutorial "[Get started with Docker](https://docs.docker.com/get-started/)" on the Docker Docs site.
 
 At the end of the Bootcamp, you complete a quiz to earn the [IBM Cloud Garage Architect Bootcamp](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-garage-architect-bootcamp) badge.  You will be quizzed on topics from the pre-requisite learning.
 
