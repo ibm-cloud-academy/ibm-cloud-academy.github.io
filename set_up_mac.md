@@ -19,9 +19,7 @@ This document provides the steps for installing the software required to begin t
 
 ## Step 2: Install the IBM Cloud Developer Tools
 
-1. Follow the instructions at: 
-https://cloud.ibm.com/docs/cli/index.html#overview
-to install the IBM Cloud Developer Tools.
+1. Follow the instructions at [Getting started with the IBM Cloud CLI](https://cloud.ibm.com/docs/cli/index.html#overview) to install the IBM Cloud Developer Tools.
 
 ## Step 3: Install Java JDK 1.8
 1. In a browser, open https://www.oracle.com
