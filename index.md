@@ -14,8 +14,8 @@ layout: default
 
 ## IBM Cloud
 * [IBM Cloud homepage](https://www.ibm.com/cloud/)
-* [IBM Cloud console](https://console.bluemix.net/)
-* [IBM Cloud documentation](https://console.bluemix.net/docs/)
+* [IBM Cloud console](https://cloud.ibm.com/login)
+* [IBM Cloud documentation](https://cloud.ibm.com/docs/)
 * [IBM Cloud what's new](https://www.ibm.com/cloud-computing/learn-more/new/)
 * [IBM Cloud blog](https://www.ibm.com/blogs/bluemix/)
 
