@@ -93,7 +93,7 @@ The lab exercises for this course are hosted on the Skytap cloud virtualization 
 
 ## Local lab environment
 To run the lab exercises on your local environment you need to prepare it by following the appropriate link:
-* [Preparation on Windows](set_up_windows.md)
+* [Preparation on Windows 10](set_up_windows10.md)
 * [Preparation on MAC](set_up_mac.md)
 * [Preparation on Linux](set_up_linux.md)
 
