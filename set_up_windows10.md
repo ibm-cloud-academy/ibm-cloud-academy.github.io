@@ -40,10 +40,14 @@ The remaining steps are all performed in the Windows Subsystem for Linux session
 1. Update all the component installation packages for your operating system.
 
 		sudo apt-get update && sudo apt-get dist-upgrade
+		
 2. Run the following command (At the message __Do you want to continue__, type __Y__):  
-`sudo apt-get install curl`
+
+		sudo apt-get install curl
+		
 3. When the installation is complete, verify that it was successful by typing  
-`curl https://www.google.com`
+
+		curl https://www.google.com
 4. Verify that the response is HTML for the Google home page.  
 __NOTE__: If the response is __The document has moved__, then curl was successfully installed, but the url is not correct. According to your geography, you need to change the extension.
 
@@ -74,16 +78,20 @@ Ubuntu includes Node.js in its default repositories.  The version that was used 
 1. Install it by typing the __apt install__ command (At the message __Do you want to continue__, type __Y__):  
 
 		sudo apt install nodejs
+		
 2. Verify the installation:  
 
 		node -v  js
+		
 3. The response is the version number (for example, v4.2.6).
 4. Install the Node Package Manager (npm) (at the message __Do you want to continue__, type __Y__):  
 
 		sudo apt install npm
+		
 5. Verify the installation:  
 
 		npm version
+		
 6. You should see a JSON object similar to this:  
 ```
 { npm: '3.5.2',
